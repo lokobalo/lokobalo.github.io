@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Основное тригонометрическое тождество(с синусом и косинусом)</title>
+</head>
+
+<body>
+    <i>sin</i>
+    <font title="угол альфа">&alpha;</title></font>
+    +
+    <i>cos</i>
+    <font title="угол альфа">&alpha;</title></font>
+    =
+    1
+</body>
+</html>
